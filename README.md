@@ -25,7 +25,7 @@
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</br>
   
   ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-  ![ArogoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=ArgoCD&logoColor=white)
+  ![ArogoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
   ![AzureDevops](https://img.shields.io/badge/azuredevops-%230072C6.svg?style=for-the-badge&logo=microsoftazuredevops&logoColor=white)
   
 
