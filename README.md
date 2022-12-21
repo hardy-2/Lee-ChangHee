@@ -12,6 +12,7 @@
 ## 🛠Stacks🛠
   
   **Stacks**</br>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/#0078D4?style=flat-square&logo=Azure&logoColor=white"/></a>&nbsp 
   
   **CSP**</br>
