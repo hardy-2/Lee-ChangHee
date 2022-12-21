@@ -9,9 +9,9 @@
 **BespinGlobal Cloud engineer training course - 2022.05 ~ 2022.12**
 
 
-## 🛠Stacks🛠
+## 🛠Stack🛠
   
-  **Stacks**</br>
+  **Stack**</br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/#0078D4?style=flat-square&logo=Azure&logoColor=white"/></a>&nbsp 
   
