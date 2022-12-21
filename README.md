@@ -12,7 +12,7 @@
 ## 🛠Stacks🛠
   
   **Stacks**</br>
-  <img src="https://img.shields.io/badge/#0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/#0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>&nbsp 
   **CSP**</br>
   
   **Monitoring**</br>
