@@ -13,9 +13,11 @@
   
   **Stack**</br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/#0078D4?style=flat-square&logo=Azure&logoColor=white"/></a>
+  
   
   **CSP**</br>
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
   **Monitoring**</br>
   
