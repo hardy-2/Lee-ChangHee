@@ -26,7 +26,7 @@
   
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   
-  ![Jenkins](https://img.shields.io/badge/jenkins-#D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
   
   
   ![ArogoCD](https://img.shields.io/badge/ArgoCD-%232C5263.svg?style=for-the-badge&logo=ArgoCD&logoColor=white)
