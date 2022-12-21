@@ -25,7 +25,10 @@
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</br>
   
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  
   ![Jenkins](https://img.shields.io/badge/jenkins-#D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  
+  
   ![ArogoCD](https://img.shields.io/badge/ArgoCD-%232C5263.svg?style=for-the-badge&logo=ArgoCD&logoColor=white)
   ![AzureDevops](https://img.shields.io/badge/azuredevops-%230072C6.svg?style=for-the-badge&logo=microsoftazuredevops&logoColor=white)
   
