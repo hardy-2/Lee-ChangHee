@@ -10,6 +10,9 @@
 
 
 ## 🛠Stack🛠
+  **CSP**</br>
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
   **Stack**</br>
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,10 +27,7 @@
   ![ArogoCD](https://img.shields.io/badge/ArgoCD-%232C5263.svg?style=for-the-badge&logo=ArgoCD&logoColor=white)
   ![AzureDevops](https://img.shields.io/badge/azuredevops-%230072C6.svg?style=for-the-badge&logo=microsoftazuredevops&logoColor=white)
   
-  
-  **CSP**</br>
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
   
   **Monitoring**</br>
   ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
