@@ -2,13 +2,6 @@
 
 <div align="center">
 
-## 학력
-
-**Bachelor's degree in ComputerSoftware Engineering**<br/> 
-
-**BespinGlobal Cloud engineer training course - 2022.05 ~ 2022.12**
-
-
 ## 경험
   **CSP**</br>
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
