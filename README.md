@@ -2,7 +2,7 @@
 
 <div align="center">
 
-##학력
+## 학력
 
 **Bachelor's degree in ComputerSoftware Engineering**<br/> 
 
@@ -17,7 +17,7 @@
   **Hello**</br>
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
   ![Shell](https://img.shields.io/badge/shellscript-FFD500.svg?style=for-the-badge&logo=shell&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</br>
   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
